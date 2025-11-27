@@ -1,7 +1,7 @@
 # Spider Bot: Advanced Autonomous Vision & Navigation System
 
-**Author**: [Your Name/Organization]  
-**Date**: November 2025  
+**Author**: Om Sharma 
+**Date**: 26 November 2025  
 **Version**: 2.0.0
 
 ---
@@ -91,3 +91,4 @@ pip install opencv-python ultralytics pyserial pillow matplotlib numpy
 
 ---
 *Generated for the Spider Bot Project.*
+
